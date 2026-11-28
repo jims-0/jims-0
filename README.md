@@ -1,16 +1,28 @@
-## Delivery pipeline
+<!--
+  Moving sections are GitSkins images:
+    wordmark -> /api/section/hero   (variant=living-identity)
+    snake    -> /api/section/heatmap (style=snake)
+    chess    -> /api/section/chess
+  Watermark-free snake alternative: see the comment under "Contribution trail".
+-->
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=jims-0&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F189839644%3Fu%3Df7f9fcc8c2089f2e0230a9f9ebbdb33071da49e8%26v%3D4" alt="jims-0 hero visual" />
+  <img src="https://www.gitskins.com/api/section/hero?username=jims-0&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F189839644%3Fu%3Df7f9fcc8c2089f2e0230a9f9ebbdb33071da49e8%26v%3D4&variant=living-identity&label=jims-0" alt="jims-0 wordmark" />
 </p>
 
-**James Hancel "Jam" Nicolas** · Full-Stack Developer & Computer Science Student
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=5EEAD4&center=true&vCenter=true&width=640&lines=Computer+Science+Student+%40+BulSU;Freelance+Full-Stack+Developer;Designing+%26+Building+Software+Systems" alt="Typing text: Computer Science Student at BulSU, Freelance Full-Stack Developer, Designing and Building Software Systems" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/james-hancel-nicolas-139123284/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <img src="https://img.shields.io/badge/Bulacan%2C_Philippines-2c5364?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
   <img src="https://komarev.com/ghpvc/?username=jims-0&color=2c5364&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
+
+## Delivery pipeline
+
+**James Hancel "Jam" Nicolas** · Full-Stack Developer & Computer Science Student
 
 ## Operating principles
 
@@ -57,10 +69,26 @@ Desktop shop-management system for a motorcycle/scooter sales and service shop, 
 
 Gamified learning system for mathematics and coding skills. Final course output for MCS 305 (Software Engineering) at BulSU.
 
-## Uptime in motion
+## Contribution trail
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=jims-0&theme=github-dark" alt="jims-0 contribution activity" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=jims-0&theme=github-dark&style=snake&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F189839644%3Fu%3Df7f9fcc8c2089f2e0230a9f9ebbdb33071da49e8%26v%3D4" alt="jims-0 snake contribution trail" />
+</p>
+
+<!--
+  Watermark-free alternative (needs .github/workflows/snake.yml from this repo).
+  Replace the <img> above with:
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jims-0/jims-0/output/github-snake-dark.svg" />
+    <img alt="snake contribution trail" src="https://raw.githubusercontent.com/jims-0/jims-0/output/github-snake.svg" />
+  </picture>
+-->
+
+## Play the next move
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/chess?username=jims-0&theme=github-dark&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F189839644%3Fu%3Df7f9fcc8c2089f2e0230a9f9ebbdb33071da49e8%26v%3D4" alt="jims-0 chess board" />
 </p>
 
 ## Service signals
@@ -108,7 +136,9 @@ Gamified learning system for mathematics and coding skills. Final course output 
   - Beyond the Obvious: Navigating Microsoft 365 toward Redefining Collaborative Research
 - Free Coding Bootcamp: Basic Web Development Workshop, BulSU Microsoft Student Community x Zuitt · Apr 2025
 
-## Keep it moving
+## Keep the story moving
+
+I enjoy working with people who care about the details, share the context, and ship something useful.
 
 <p align="center">
   <img src="https://www.gitskins.com/api/section/social?username=jims-0&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F189839644%3Fu%3Df7f9fcc8c2089f2e0230a9f9ebbdb33071da49e8%26v%3D4" alt="jims-0 social visual" />
