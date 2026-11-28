@@ -1,13 +1,10 @@
 <!--
-  Moving sections are GitSkins images:
-    wordmark -> /api/section/hero   (variant=living-identity)
-    snake    -> /api/section/heatmap (style=snake)
-    chess    -> /api/section/chess
-  Watermark-free snake alternative: see the comment under "Contribution trail".
+  wordmark -> assets/wordmark.svg (self-hosted, no third-party service)
+  chess    -> GitSkins /api/section/chess
 -->
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=jims-0&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F189839644%3Fu%3Df7f9fcc8c2089f2e0230a9f9ebbdb33071da49e8%26v%3D4&variant=living-identity&label=jims-0" alt="jims-0 wordmark" />
+  <img src="assets/wordmark.svg" alt="jims-0 wordmark" />
 </p>
 
 <p align="center">
@@ -68,22 +65,6 @@ Desktop shop-management system for a motorcycle/scooter sales and service shop, 
 ### 🎮 Kaizen
 
 Gamified learning system for mathematics and coding skills. Final course output for MCS 305 (Software Engineering) at BulSU.
-
-## Contribution trail
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=jims-0&theme=github-dark&style=snake&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F189839644%3Fu%3Df7f9fcc8c2089f2e0230a9f9ebbdb33071da49e8%26v%3D4" alt="jims-0 snake contribution trail" />
-</p>
-
-<!--
-  Watermark-free alternative (needs .github/workflows/snake.yml from this repo).
-  Replace the <img> above with:
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jims-0/jims-0/output/github-snake-dark.svg" />
-    <img alt="snake contribution trail" src="https://raw.githubusercontent.com/jims-0/jims-0/output/github-snake.svg" />
-  </picture>
--->
 
 ## Play the next move
 
