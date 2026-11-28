@@ -1,10 +1,10 @@
 <!--
-  wordmark -> assets/wordmark.svg (self-hosted, no third-party service)
+  wordmark -> assets/wordmark.gif (self-hosted, no third-party service)
   chess    -> GitSkins /api/section/chess
 -->
 
 <p align="center">
-  <img src="assets/wordmark.svg" alt="jims-0 wordmark" />
+  <img src="assets/wordmark.gif" alt="jims-0 wordmark" />
 </p>
 
 <p align="center">
